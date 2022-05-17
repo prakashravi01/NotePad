@@ -5,6 +5,9 @@
 -     Opening a loaded one
 -     Saving the current file at any moment of time
 -     Shortcut to exit
+Along with some enhanced features of a text editor like :
+-     You can set the background and foreground interfaces as per your choice (rather than choosing from a set of templates)
+-     You can Bold, Ialicize and plain your fonts as per your reading comfort
 ![2021-11-14 (3)](https://user-images.githubusercontent.com/94296157/141683863-e7e08015-2991-4ace-9042-193f6df2cf07.png)
 
  Gives you an option to choose the background colour manually
